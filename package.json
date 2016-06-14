@@ -1,0 +1,14 @@
+{
+  "name": "ble-bean-mqtt",
+  "version": "0.0.1",
+  "description": "Bean BLE mqtt",
+  "main": "app.js",  
+  "dependencies": {
+    "ble-bean": "2.1.1",
+    "mqtt": "1.11.0"
+  },
+  "engines": {
+    "node": ">=0.8.6"
+  } 
+  
+}
